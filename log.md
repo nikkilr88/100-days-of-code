@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 15 (June 5, 2017):
+
+**Today's Progress**: Started doing The Odin Project again. I got a start on the Google homepage project. Learned how to do vertical positioning without flexbox. I'm also getting better with Git.
+
+**Thoughts:** Feeling meh. Looked at one of my older projects in IE, and saw that flexbox wasn't working correctly even with the prefixes. It was kind of frustrating because I could not fix it. It might be a bug, though. I saw others with the same problem.
+
+**Link to work:** [Google Homepage](https://github.com/nikkilr88/google-homepage)
+
+
 ### Day 14 (June 3, 2017):
 
 **Today's Progress**: Worked with the Giphy API on my React Local weather project. Made some progress with both. I'm just not sure if I like how the Giphy web app is coming along.

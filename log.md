@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 16 (June 6, 2017):
+
+**Today's Progress**: Decided to take it easy today. Made a tabbed panel, watched tutorials on YouTube and did interactive ReactJS lessons.
+
+**Thoughts:** Feeling pretty good. It was nice to go back to the basics and just have some fun.
+
+**Link to work:** [Tabbed Panel](https://codepen.io/nikkilr88/full/xrGEGr/)
+
 ### Day 15 (June 5, 2017):
 
 **Today's Progress**: Started doing The Odin Project again. I got a start on the Google homepage project. Learned how to do vertical positioning without flexbox. I'm also getting better with Git.

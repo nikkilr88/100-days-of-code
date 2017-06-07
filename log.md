@@ -2,7 +2,7 @@
 
 ### Day 16 (June 6, 2017):
 
-**Today's Progress**: Decided to take it easy today. Made a tabbed panel, watched tutorials on YouTube and did interactive ReactJS lessons.
+**Today's Progress**: Decided to take it easy today. Made a tabbed panel, watched tutorials on YouTube, worked on the Google homepage project for The Odin Project and did interactive ReactJS lessons.
 
 **Thoughts:** Feeling pretty good. It was nice to go back to the basics and just have some fun.
 

@@ -7,7 +7,7 @@
 **Thoughts:** Feeling okay. Using C9 can still be stressfull, but I'm slowly getting the hang of it. I'm super excited about the course, though!
 
 **Link to work:** [Giphy App](https://github.com/nikkilr88/giphy)
-s
+
 
 ### Day 16 (June 6, 2017):
 

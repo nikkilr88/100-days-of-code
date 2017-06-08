@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 17 (June 7, 2017):
+
+**Today's Progress**: Worked on my Giphy app. Added a "load more" button. Started "the web developer" bootcamp Udemy course.
+
+**Thoughts:** Feeling okay. Using C9 can still be stressfull, but I'm slowly getting the hang of it. I'm super excited about the course, though!
+
+**Link to work:** [Giphy App](https://github.com/nikkilr88/giphy)
+
+
 ### Day 16 (June 6, 2017):
 
 **Today's Progress**: Decided to take it easy today. Made a tabbed panel, watched tutorials on YouTube, worked on the Google homepage project for The Odin Project and did interactive ReactJS lessons.

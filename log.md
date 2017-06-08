@@ -2,7 +2,7 @@
 
 ### Day 18 (June 8, 2017):
 
-**Today's Progress**: Continued with "The Web Developer Bootcamp" Udemy course. Feels a bit slow, but I'm still learning things I didn't know before. I'm excited about the upcoming Bootstamp and JS sections!
+**Today's Progress**: Continued with "The Web Developer Bootcamp" Udemy course and did a little work with React. Feels a bit slow, but I'm still learning things I didn't know before. I'm excited about the upcoming Bootstamp and JS sections!
 
 **Thoughts:** Had a good day. It will feel nice to get back to some bigger projects, though.
 

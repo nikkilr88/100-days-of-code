@@ -2,12 +2,12 @@
 
 ### Day 17 (June 7, 2017):
 
-**Today's Progress**: Worked on my Giphy app. Added a "load more" button. Started "the web developer" bootcamp Udemy course.
+**Today's Progress**: Worked on my Giphy app. Added a "load more" button. Started "The Web Developer Bootcamp" Udemy course.
 
 **Thoughts:** Feeling okay. Using C9 can still be stressfull, but I'm slowly getting the hang of it. I'm super excited about the course, though!
 
 **Link to work:** [Giphy App](https://github.com/nikkilr88/giphy)
-
+s
 
 ### Day 16 (June 6, 2017):
 

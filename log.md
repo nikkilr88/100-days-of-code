@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 18 (June 8, 2017):
+
+**Today's Progress**: Continued with "The Web Developer Bootcamp" Udemy course. Feels a bit slow, but I'm still learning things I didn't know before. I'm excited about the upcoming Bootstamp and JS sections!
+
+**Thoughts:** Had a good day. It will feel nice to get back to some bigger projects, though.
+
+**Link to work:** [Intro To HTML](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/intro-to-html)
+
 ### Day 17 (June 7, 2017):
 
 **Today's Progress**: Worked on my Giphy app. Added a "load more" button. Started "The Web Developer Bootcamp" Udemy course.

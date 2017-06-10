@@ -7,15 +7,6 @@
 **Thoughts:** Feeling positive. I really think I am going to learn a lot with this course.
 
 
-### Day 17 (June 7, 2017):
-
-**Today's Progress**: Worked on my Giphy app. Added a "load more" button. Started "The Web Developer Bootcamp" Udemy course.
-
-**Thoughts:** Feeling okay. Using C9 can still be stressfull, but I'm slowly getting the hang of it. I'm super excited about the course, though!
-
-**Link to work:** [Giphy App](https://github.com/nikkilr88/giphy)
-
-
 ### Day 18 (June 8, 2017):
 
 **Today's Progress**: Continued with "The Web Developer Bootcamp" Udemy course and did a little work with React. Feels a bit slow, but I'm still learning things I didn't know before. I'm excited about the upcoming Bootstamp and JS sections!

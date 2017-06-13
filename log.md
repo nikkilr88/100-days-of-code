@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
+### Days 21 & 22:
+
+**Today's Progress**: "The Web Developer Bootcamp" and some FCC ReactJS lessons.
+
+**Thoughts:** Feeling meh. I had to really push myself today. Hopefully everything will get back to normal soon!
+
+**Link to work:** [Bootstrap Gallery](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/bootstrap)
+
+
+
 ### Days 19 & 20:
 
 **Today's Progress**: Continued with "The Web Developer Bootcamp" Udemy course and worked a little on the Google homepage project.

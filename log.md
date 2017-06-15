@@ -7,7 +7,7 @@
 
 **Thoughts:** Kind of stressed because of Git. I figured everything out but ended up losing a lot motivation.
 
-**Link to work:** [JS Number Guessing Game](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/guessing-game) [Age Calc](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/age-calc)
+**Link to work:** [JS Number Guessing Game](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/guessing-game) | [Age Calc](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/age-calc)
 
 
 ### Day 23 (June 14, 2017):

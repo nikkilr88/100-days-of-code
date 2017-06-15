@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 23 (June 14, 2017):
+
+**Today's Progress**: Continued "The Web Developer Bootcamp". Finished the last Bootstrap project, so I'll finally be moving on to the JS section.
+
+**Thoughts:** Got a late start today, but still got in a good amount of coding. I'm feeling like I need to be making more progress. We'll see...
+
+**Link to work:** [Bootstrap Landing Page](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/bootstrap/landing-page)
+
+
 ### Days 21 & 22:
 
 **Today's Progress**: "The Web Developer Bootcamp" and some FCC ReactJS lessons.

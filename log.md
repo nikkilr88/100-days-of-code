@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
+
+### Day 24 (June 15, 2017):
+
+**Today's Progress**: Continued "The Web Developer Bootcamp". Started the JavaScript section and did a few assignments. Had a lot of problems with Git today. Almost lost somre projects.
+
+**Thoughts:** Kind of stressed because of Git. I figured everything out but ended up losing a lot motivation.
+
+**Link to work:** [JS Number Guessing Game](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/guessing-game) [Age Calc](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/age-calc)
+
+
 ### Day 23 (June 14, 2017):
 
 **Today's Progress**: Continued "The Web Developer Bootcamp". Finished the last Bootstrap project, so I'll finally be moving on to the JS section.

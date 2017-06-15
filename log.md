@@ -3,7 +3,7 @@
 
 ### Day 24 (June 15, 2017):
 
-**Today's Progress**: Continued "The Web Developer Bootcamp". Started the JavaScript section and did a few assignments. Had a lot of problems with Git today. Almost lost somre projects.
+**Today's Progress**: Continued "The Web Developer Bootcamp". Started the JavaScript section and did a few assignments. Had a lot of problems with Git today. Almost lost somre projects. I also made a very basic admin login/logout system in PHP.
 
 **Thoughts:** Kind of stressed because of Git. I figured everything out but ended up losing a lot motivation.
 

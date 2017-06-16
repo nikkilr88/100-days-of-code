@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 25 (June 16, 2017):
+
+**Today's Progress**: Continued "The Web Developer Bootcamp", worked a little with ReactJS and Angular JS.
+
+**Thoughts:** I'm still not feeling very motivated. I don't feel like I am making any real progress.
+
+**Link to work:** [JS Problem Sets](https://github.com/nikkilr88/the-web-developer-bootcamp/blob/master/javascript/problem-sets.md)
+
+
 ### Day 24 (June 15, 2017):
 
 **Today's Progress**: Continued "The Web Developer Bootcamp". Started the JavaScript section and did a few assignments. Had a lot of problems with Git today. Almost lost somre projects. I also made a very basic admin login/logout system in PHP.

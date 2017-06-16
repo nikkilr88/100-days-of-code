@@ -3,7 +3,7 @@
 
 ### Day 25 (June 16, 2017):
 
-**Today's Progress**: Continued "The Web Developer Bootcamp", worked a little with ReactJS and Angular JS.
+**Today's Progress**: Continued "The Web Developer Bootcamp", worked a little with ReactJS and AngularJS.
 
 **Thoughts:** I'm still not feeling very motivated. I don't feel like I am making any real progress.
 

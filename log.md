@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 26 (June 17, 2017):
+
+**Today's Progress**: Focused on ReactJS. Tried to get some work done on the recipe box project for FCC, but nothing seemed to click and I struggled a lot. With some help, I mananged to make a little progress and got the recipes on screen without DOM manipulation. I decided to quit while I was ahead.
+
+**Thoughts:** It was a pretty stressful day. I know when I get like this I end up learning a lot, so I am going to try to be positive.
+
+**Link to work:** [Recipe Box](https://github.com/nikkilr88/fcc-recipe-box)
+
+
+
 ### Day 25 (June 16, 2017):
 
 **Today's Progress**: Continued "The Web Developer Bootcamp", worked a little with ReactJS and AngularJS.

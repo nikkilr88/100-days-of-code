@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 28 (June 20, 2017):
+
+**Today's Progress**: Web Dev Bootcamp and lots of ReactJS today. Watched some tutorials and felt good enough to get a little work done on the recipe box project. I think I finally have my delete button working.
+
+**Thoughts:** Trying to take it slow and not stress out. So far so good!
+
+**Link to work:** [Recipe Box](https://github.com/nikkilr88/fcc-recipe-box)
+
+
+
+### Day 27 (June 19, 2017):
+
+**Today's Progress**: Continued "The Web Developer Bootcamp" & Codecademy "ReactJS: Part II".
+
+**Thoughts:** Today has been better than the last few days. I'm trying to take it easy for a while and do lots of lessons and course work before continuing on with any big projects. Sometimes I push myself too much and lose motivation, so my focus is going to be on studying for a while.
+
+**Link to work:** [Array Problem Set](https://github.com/nikkilr88/the-web-developer-bootcamp/blob/master/javascript/problem-sets.md)
+
+
+
 ### Day 26 (June 17, 2017):
 
 **Today's Progress**: Focused on ReactJS. Tried to get some work done on the recipe box project for FCC, but nothing seemed to click and I struggled a lot. With some help, I mananged to make a little progress and got the recipes on screen without DOM manipulation. I decided to quit while I was ahead.

@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 30 (June 22, 2017):
+
+**Today's Progress**: Continued working on the website, made it to Unit 13 of "The Web Developer Bootcamp" and completed one advanced alorithm on FCC.
+
+**Thoughts:** Today was okay, although I feel like I need to be challenging myself a little more.
+
+**Link to work:** [Website](https://github.com/nikkilr88/alarm-page) | [Movie DB](https://github.com/nikkilr88/the-web-developer-bootcamp/blob/master/javascript/problem-sets.md)
+
+
+
 ### Day 29 (June 21, 2017):
 
 **Today's Progress**: Lots of HTML and CSS today. Did some lessons on GA Dash and worked on a basic website.

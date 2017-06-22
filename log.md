@@ -7,7 +7,7 @@
 
 **Thoughts:** It was nice to take a break and go back to the basics.
 
-**Link to work:** [Website Snap Scroll](https://github.com/nikkilr88/alarm-page)
+**Link to work:** [Website](https://github.com/nikkilr88/alarm-page)
 
 
 ### Day 28 (June 20, 2017):

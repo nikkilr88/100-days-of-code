@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 29 (June 21, 2017):
+
+**Today's Progress**: Lots of HTML and CSS today. Did some lessons on GA Dash and worked on a basic website.
+
+**Thoughts:** It was nice to take a break and go back to the basics.
+
+**Link to work:** [Website Snap Scroll](https://github.com/nikkilr88/alarm-page)
+
+
 ### Day 28 (June 20, 2017):
 
 **Today's Progress**: Web Dev Bootcamp and lots of ReactJS today. Watched some tutorials and felt good enough to get a little work done on the recipe box project. I think I finally have my delete button working.

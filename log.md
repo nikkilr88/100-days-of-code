@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 31 (June 23, 2017):
+
+**Today's Progress**: More work on the webpage and Codecademy React and Angular. I also starting dabbling with a personal project.
+
+**Thoughts:** Today wasn't bad. Slowly React is starting to make more sense, but I am going to have to really work on Angular. It's just not sticking.
+
+
+
 ### Day 30 (June 22, 2017):
 
-**Today's Progress**: Continued working on the website, made it to Unit 13 of "The Web Developer Bootcamp" and completed one advanced alorithm on FCC.
+**Today's Progress**: Continued working on the webpage, made it to Unit 13 of "The Web Developer Bootcamp" and completed one advanced alorithm on FCC.
 
 **Thoughts:** Today was okay, although I feel like I need to be challenging myself a little more.
 

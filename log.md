@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 32 (June 24, 2017):
+
+**Today's Progress**: "Watch and Code Practical JS" and "The Web Developer Bootcamp". Lots of work with JavaScript today. I also did some dabbling with some personal projects.
+
+**Thoughts:** Had a pretty good day. I'm almost done with the "Watch and Code" JS course, so I am kind of excited about that.
+
+
+
 ### Day 31 (June 23, 2017):
 
 **Today's Progress**: More work on the webpage and Codecademy React and Angular. I also starting dabbling with a personal project.

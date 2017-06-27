@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 33 (June 26, 2017):
+
+**Today's Progress**: "Continued "The Web Developer Bootcamp". Getting to the end of Unit 14.
+
+**Thoughts:** Even though I started this course with previous knowledge of JS, I am still learning a lot of nice tricks!
+
+**Link to work:** [BG Toggle](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/color-toggle) | [Score Keeper ](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/score-keeper)
+
+
+
 ### Day 32 (June 24, 2017):
 
 **Today's Progress**: "Watch and Code Practical JS" and "The Web Developer Bootcamp". Lots of work with JavaScript today. I also did some dabbling with some personal projects.

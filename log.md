@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+
+### Day 35 (June 27, 2017):
+
+**Today's Progress**: Started redoing the JS calculator project, continued with the web dev course, and started refactoring my Tic Tac Tow game.
+
+**Thoughts:** Lots of CSS and JS today. The mobile version of my calculator looks great, but the full version still needs a lot of styling. My CSS skills are improving, though! Pretty happy with today's progress.
+
+**Link to work:** [Calculator V2](https://codepen.io/nikkilr88/full/bRaWRO/)
+
+
 ### Day 34 (June 27, 2017):
 
 **Today's Progress**: "Continued "The Web Developer Bootcamp" and dabbled with a charting library. I figured out how to add it to my weather app, and now I just have to style it.

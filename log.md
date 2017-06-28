@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 34 (June 27, 2017):
+
+**Today's Progress**: "Continued "The Web Developer Bootcamp" and dabbled with a charting library. I figured out how to add it to my weather app, and now I just have to style it.
+
+**Thoughts:** Staying positive. I am getting closer to the RGB color game, so I am pretty excited about that. I am hoping that I will learn a lot more about vanilla JS.
+
+**Link to work:** [Score Keeper ](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/score-keeper)
+
+
 ### Day 33 (June 26, 2017):
 
 **Today's Progress**: "Continued "The Web Developer Bootcamp". Getting to the end of Unit 14.
@@ -8,7 +17,6 @@
 **Thoughts:** Even though I started this course with previous knowledge of JS, I am still learning a lot of nice tricks!
 
 **Link to work:** [BG Toggle](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/color-toggle) | [Score Keeper ](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/score-keeper)
-
 
 
 ### Day 32 (June 24, 2017):

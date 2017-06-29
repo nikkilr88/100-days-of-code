@@ -1,8 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 36 (June 29, 2017):
 
-### Day 35 (June 27, 2017):
+**Today's Progress**: Contiuned working on my calculator and "The Web Developer Bootcamp". I also refactored my ReactJS markdown previewer.
+
+**Thoughts:** I am not where I want to be, but I think I frontend skills are improving! It was nice to get out of my comfort zone today and code in React.
+
+**Link to work:** [RGB Color Game](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/color-game) | [Markdown Previewer](https://codepen.io/nikkilr88/full/RgQpyr/)
+
+
+### Day 35 (June 28, 2017):
 
 **Today's Progress**: Started redoing the JS calculator project, continued with the web dev course, and started refactoring my Tic Tac Tow game.
 

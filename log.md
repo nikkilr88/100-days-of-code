@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 37 (June 30, 2017):
+
+**Today's Progress**: Kept it simple today and continuted with the bootcamp. I am getting close to the end of the RGB color game section.
+
+**Thoughts:** Wasn't really feeling it today. Hoping that tomorrow I have more motivation.
+
+**Link to work:** [RGB Color Game](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/javascript/color-game)
+
+
 ### Day 36 (June 29, 2017):
 
 **Today's Progress**: Contiuned working on my calculator and "The Web Developer Bootcamp". I also refactored my ReactJS markdown previewer.

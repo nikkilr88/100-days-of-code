@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
 
+
+### Day 38 (July 02, 2017):
+
+**Today's Progress**: Continued with the web dev bootcamp. I finished the RGB color game and started the jQuery unit.
+
+**Thoughts:** Still not feeling motivated, but I'm pushing through.
+
+
 ### Day 37 (June 30, 2017):
 
 **Today's Progress**: Kept it simple today and continuted with the bootcamp. I am getting close to the end of the RGB color game section.

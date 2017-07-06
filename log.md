@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 41 (July 05, 2017):
+
+**Today's Progress**: Focused on ReactJS today. I didn't do any lessons or tutorials. I just wanted to get in some practice, so I started a more advanced todo list project.
+
+**Thoughts:** It was nice to get a little out of my comfort zone today.
+
+**Link to work**: [Todo List](https://codepen.io/nikkilr88/full/WOKQWP/)
+
+### Days 39 & 40:
+
+**Today's Progress**: Web dev bootcamp and Codecademy React lessons
+
+**Thoughts:** I'm really liking the bootcamp, but I think I'll enjoy it more once I start learning new languages. Right now it is mostly review for me. 
+
 
 ### Day 38 (July 02, 2017):
 

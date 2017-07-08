@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 43 (July 07, 2017):
+
+**Today's Progress**: Continued with the web dev bootcamp. I am getting near the end of the frontend section! I started the todo list project today.
+
+**Thoughts:** I am curious if I will like backend when I get to it. I have only dabbled with PHP, so this will be interesting.
+
+
+### Day 42 (July 06, 2017):
+
+**Today's Progress**: Continued working on my todo app, added the ability to delete todos.
+
+**Thoughts:** I think I am finally getting the hang of this React stuff. 
+
+**Link to work**: [Todo List](https://codepen.io/nikkilr88/full/WOKQWP/)
+
+
 ### Day 41 (July 05, 2017):
 
 **Today's Progress**: Focused on ReactJS today. I didn't do any lessons or tutorials. I just wanted to get in some practice, so I started a more advanced todo list project.
@@ -8,6 +24,7 @@
 **Thoughts:** It was nice to get a little out of my comfort zone today.
 
 **Link to work**: [Todo List](https://codepen.io/nikkilr88/full/WOKQWP/)
+
 
 ### Days 39 & 40:
 

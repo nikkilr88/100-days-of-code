@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 45 (July 10, 2017):
+
+**Today's Progress**: More web dev bootcamp today. I finished up the todo list project, and now I am moving on to the option project: Build A Patatap Clone
+
+**Thoughts:** I enoyed the todo list project. I thought it was going to be harder, but the teacher explains everything so well.
+
+**Link to work**: [Todo App](https://nikkilr88.github.io/wdb-todo/)
+
+
 ### Day 44 (July 09, 2017):
 
 **Today's Progress**: Continued with the web dev bootcamp. Finished the first part of the todo list project. Next up is styling.

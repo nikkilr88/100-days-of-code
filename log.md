@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 44 (July 09, 2017):
+
+**Today's Progress**: Continued with the web dev bootcamp. Finished the first part of the todo list project. Next up is styling.
+
+**Thoughts:** I am enjoying the jQuery part of the course. I am learning a few new tricks.
+
+**Link to work**: [Todo App](https://github.com/nikkilr88/the-web-developer-bootcamp/tree/master/jquery/todo)
+
+
 ### Day 43 (July 07, 2017):
 
 **Today's Progress**: Continued with the web dev bootcamp. I am getting near the end of the frontend section! I started the todo list project today.

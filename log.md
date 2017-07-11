@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 46 (July 11, 2017):
+
+**Today's Progress**: Continued with the bootcamp. Finished the Patatap clone project and started the backend section of the course!
+
+**Thoughts:** The patatap project was pretty fun! Animations are kind of out of my comfort zone, though.
+
+**Link to work**: [Patatap Clone]https://nikkilr88.github.io/wdb-patatap/)
+
+
 ### Day 45 (July 10, 2017):
 
 **Today's Progress**: More web dev bootcamp today. I finished up the todo list project, and now I am moving on to the option project: Build A Patatap Clone

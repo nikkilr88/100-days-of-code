@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 47 (July 12, 2017):
+
+**Today's Progress**: Had to take a break from the bootcamp to start working on a website. Hopefully this will be a paid project.
+
+**Thoughts:** It was nice to work with html and css, but I want to get back to my course.
+
+
 ### Day 46 (July 11, 2017):
 
 **Today's Progress**: Continued with the bootcamp. Finished the Patatap clone project and started the backend section of the course!

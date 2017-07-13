@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 48 (July 13, 2017):
+
+**Today's Progress**: Worked on a couple of webistes and got back to my web dev course. I worked with Node today and got to play around with cat-me and faker.
+
+**Thoughts:** I'm having fun with Node so far. I know this is going to get much harder, though.
+
 ### Day 47 (July 12, 2017):
 
 **Today's Progress**: Had to take a break from the bootcamp to start working on a website. Hopefully this will be a paid project.

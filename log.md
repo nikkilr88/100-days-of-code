@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 49 (July 14, 2017):
+
+**Today's Progress**: Continued with the web dev bootcamp. Today we worked on Express and did a couple of exercises.
+
+**Thoughts:** I am still really enjoying Node. I just keep wondering how difficult this is going to get... 
+
+**Link to work**: [Express Routing Assignment](https://github.com/nikkilr88/wdb-backend/tree/master/IntroToExpress/ExpressRoutingAssignment)
+
+
+
 ### Day 48 (July 13, 2017):
 
 **Today's Progress**: Worked on a couple of webistes and got back to my web dev course. I worked with Node today and got to play around with cat-me and faker.

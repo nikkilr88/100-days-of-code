@@ -4,7 +4,7 @@
 
 ### Day 50 (July 15, 2017):
 
-**Today's Progress**: Halfway through! Continued with the web dev bootcamp. Learned about partials and using ejs inside of HTML. I also did a little work on the website.
+**Today's Progress**: Halfway through! Continued with the web dev bootcamp. Learned about partials and using EJS inside of HTML. I also did a little work on the website.
 
 **Thoughts:** So far so good!
 

@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+
+### Day 50 (July 15, 2017):
+
+**Today's Progress**: Halfway through! Continued with the web dev bootcamp. Learned about partials and using ejs inside of HTML. I also did a little work on the website.
+
+**Thoughts:** So far so good!
+
+**Link to work**: [EJS App Demo](https://github.com/nikkilr88/wdb-backend/tree/master/MoreExpress/EJSDemo)
+
+
 ### Day 49 (July 14, 2017):
 
 **Today's Progress**: Continued with the web dev bootcamp. Today we worked on Express and did a couple of exercises.
@@ -10,12 +20,12 @@
 **Link to work**: [Express Routing Assignment](https://github.com/nikkilr88/wdb-backend/tree/master/IntroToExpress/ExpressRoutingAssignment)
 
 
-
 ### Day 48 (July 13, 2017):
 
 **Today's Progress**: Worked on a couple of webistes and got back to my web dev course. I worked with Node today and got to play around with cat-me and faker.
 
 **Thoughts:** I'm having fun with Node so far. I know this is going to get much harder, though.
+
 
 ### Day 47 (July 12, 2017):
 

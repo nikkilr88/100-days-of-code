@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 52 (July 18, 2017):
+
+**Today's Progress**: Git and React today. Learned about branches in Git and applied what I learned to make a development branch in my recipe box project. I also started working on the edit function... I am getting closer.
+
+**Thoughts:** The more I learn about Git, the more I love it.
+
+**Link to work**: [Recipe Box](https://github.com/nikkilr88/fcc-recipe-box/tree/develop)
+
 
 ### Day 51 (July 17, 2017):
 

@@ -2,6 +2,15 @@
 
 
 
+### Day 51 (July 17, 2017):
+
+**Today's Progress**: Took a break yesterday. Got back to work today and continued with the bootcamp. Learned about making post requests.
+
+**Thoughts:** I am really enjoying Express. I can't wait to see what else we are going to build and maybe make something of my own.
+
+**Link to work**: [Post Request Demo](https://github.com/nikkilr88/wdb-backend/tree/master/MoreExpress/PostReqDemo)
+
+
 ### Day 50 (July 15, 2017):
 
 **Today's Progress**: Halfway through! Continued with the web dev bootcamp. Learned about partials and using EJS inside of HTML. I also did a little work on the website.

@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
+
+### Day 54 (July 20, 2017):
+
+**Today's Progress**: Continued the bootcamp. Started the "YelpCamp" section and learned about MongoDB.
+
+**Thoughts:** There was a lot to take in today, but I still enjoyed the lessons.
+
+**Link to work**: [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp)
+
+
 ### Day 53 (July 19, 2017):
 
 **Today's Progress**: Continued to practice Git, worked on the recipe box and finished the API section of the web dev bootcamp.

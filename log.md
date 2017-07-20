@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 53 (July 19, 2017):
+
+**Today's Progress**: Continued to practice Git, worked on the recipe box and finished the API section of the web dev bootcamp.
+
+**Thoughts:** Still loving backend. I thought I was going to be completely lost, but so far everything is going well.
+
+**Link to work**: [APIs](https://github.com/nikkilr88/wdb-backend/tree/master/APIs)
+
 
 ### Day 52 (July 18, 2017):
 

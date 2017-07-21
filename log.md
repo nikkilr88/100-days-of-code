@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 55 (July 21, 2017):
+
+**Today's Progress**: Continued with the YelpCamp project. Learned a little about RESTful routes, and also added a show page to my movie app.
+
+**Thoughts:** Still loving it! Colt explains everything so well that I have been able to apply what I learn to my personal project right away. 
+
+**Link to work**: [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp) | [Movie API app](https://github.com/nikkilr88/wdb-movie-app)
+
+
 ### Day 54 (July 20, 2017):
 
 **Today's Progress**: Continued the bootcamp. Started the "YelpCamp" section and learned about MongoDB.

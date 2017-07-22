@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 56 (July 22, 2017):
+
+**Today's Progress**: Continued with the bootcamp. Started the RESTful blog project and went back to doing FCC. I finished a couple of "LearnYouNode challenges".
+
+**Thoughts:** Doing well... I am looking forward to learning more with this blog project. 
+
+**Link to work**: [RESTful Blog App](https://github.com/nikkilr88/wdb-backend/tree/master/RESTfulRouting/BlogApp) 
+
 
 ### Day 55 (July 21, 2017):
 

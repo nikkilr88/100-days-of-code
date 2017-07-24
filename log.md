@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
+
+### Day 57 (July 23, 2017):
+
+**Today's Progress**: I didn't do any real studying today. I did do some tutorials and played around with Bootstrap 4, though. I didn't know they had a carousel component!
+
+**Thoughts:** I have an itch to redo my portfolio again. I really should study design, or at least pratice cloning webpages.
+
+**Link to work**: [Weight Converter](https://codepen.io/nikkilr88/full/MvWaXG/) 
+
+
 ### Day 56 (July 22, 2017):
 
 **Today's Progress**: Continued with the bootcamp. Started the RESTful blog project and went back to doing FCC. I finished a couple of "LearnYouNode challenges".

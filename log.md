@@ -4,9 +4,9 @@
 
 ### Day 58 (July 25, 2017):
 
-**Today's Progress**: Finished up the blog project and the RESTful Routing section of the bootcamp. I hope to improve on it after learning some more and redo my portfoilio in Express.
+**Today's Progress**: Finished up the blog project and the RESTful Routing section of the bootcamp. I hope to improve on it after learning some more and redo my portfoilio in Express. I also completed 1 "learnyounode" FCC challenge.
 
-**Thoughts:** I had fun with this section. I think I am going to call it a day, though. it was a lot to take in, and I don't want to stress myself out. I will probably work through this section again and try to build something similar on my own.
+**Thoughts:** I had fun with this section. I think I am going to call it a day, though. It was a lot to take in, and I don't want to stress myself out. I will probably work through this section again and try to build something similar on my own.
 
 **Link to work**: [RESTful Blog App](https://github.com/nikkilr88/wdb-backend/tree/master/RESTfulRouting/BlogApp)
 

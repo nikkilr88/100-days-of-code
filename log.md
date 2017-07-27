@@ -2,6 +2,13 @@
 
 
 
+### Day 59 (July 26, 2017):
+
+**Today's Progress**: Took a break from the bootcamp to work on my portfolio. Lots of refactoring today.
+
+**Thoughts:** It has been a long day. I put a lot of time into it, but not much has changed. It's slowly looking better, though.
+
+
 ### Day 58 (July 25, 2017):
 
 **Today's Progress**: Finished up the blog project and the RESTful Routing section of the bootcamp. I hope to improve on it after learning some more and redo my portfoilio in Express. I also completed 1 "learnyounode" FCC challenge.

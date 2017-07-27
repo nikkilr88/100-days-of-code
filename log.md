@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 60 (July 27, 2017):
+
+**Today's Progress**: Continued working on my portfolio today. I think it's coming along nicely. I also completed the "Data Associations" section of the web dev bootcamp.
+
+**Thoughts:** I really can't complain. I can tell that I am making progress! My goal for tomorrow is to forget about my portfolio and focus on the bootcamp.
+
+**Link to work**: [Portfolio](https://github.com/nikkilr88/portfoliov3)
+
 
 ### Day 59 (July 26, 2017):
 

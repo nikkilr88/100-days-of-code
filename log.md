@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 61 (July 28, 2017):
+
+**Today's Progress**: Focued on the boot camp today. Added comments to "YelpCamp" and started to redo the blog project.
+
+**Thoughts:** Recently there has been a lot of information to take in. I'm trying to take it easy so it all sticks.
+
+
 ### Day 60 (July 27, 2017):
 
 **Today's Progress**: Continued working on my portfolio today. I think it's coming along nicely. I also completed the "Data Associations" section of the web dev bootcamp.

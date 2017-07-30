@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 62 (July 29, 2017):
+
+**Today's Progress**: Continued the bootcamp. Finished up with the comments and started learning about authentication! I also did a little bit of work on the movie app and the RESTful routing blog app.
+
+**Thoughts:** All of the information is a little overwhelming. I am probably going to review these lessons before moving forward. I think I have RESTful routing down, though. 
+
+**Link to work**: [Secret Page](https://github.com/nikkilr88/wdb-backend/tree/master/Authentication/SecretPage)
+
+
 ### Day 61 (July 28, 2017):
 
 **Today's Progress**: Focued on the boot camp today. Added comments to "YelpCamp" and started to redo the blog project.

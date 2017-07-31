@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 64 (July 31, 2017):
+
+**Today's Progress**: Continued the bootcamp and finished the Secret Page code along. I also did some work on the movie app and added in comments.
+
+**Thoughts:** I am going to have to review the into to authentication one or two more times before it sticks. I'm excited about the comments on the movie app, though. I thought it was going to be more difficult because the movie info is comming from an API while the comments are coming from mongo.
+
+**Link to work**: [Movie App](https://github.com/nikkilr88/wdb-movie-app/tree/develop)
+
+
+### Day 63 (July 30, 2017):
+
+**Today's Progress**: Started a YouTube course called ["PHP Front To Back"](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn), started working on form validation.
+
+**Thoughts:** I don't care for PHP much, but I think it might be useful for me to learn.
+
+
 ### Day 62 (July 29, 2017):
 
 **Today's Progress**: Continued the bootcamp. Finished up with the comments and started learning about authentication! I also did a little bit of work on the movie app and the RESTful routing blog app.

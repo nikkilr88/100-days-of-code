@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 65 (August 3, 2017):
+
+**Today's Progress**: Added authentication to YelpCamp.
+
+**Thoughts:** Had a crappy past couple of days, but I'm back at it. 
+
 ### Day 64 (July 31, 2017):
 
 **Today's Progress**: Continued the bootcamp and finished the Secret Page code along. I also did some work on the movie app and added in comments.

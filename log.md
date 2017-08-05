@@ -3,7 +3,7 @@
 
 ### Day 67 (August 5, 2017):
 
-**Today's Progress**: Took a break from the bootcamp today. Had to watch a tutorial to finish the slider, but it's done for the most part. I also dabbled with the FB graphy api. I finally figured out how to pull album photos from a FB page to display on a website.
+**Today's Progress**: Took a break from the bootcamp today. Had to watch a tutorial to finish the slider, but it's done for the most part. I also dabbled with the FB Graph API. I finally figured out how to pull album photos from a FB page to display on a website.
 
 **Thoughts:** Just keep swimming.
 

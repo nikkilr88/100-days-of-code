@@ -1,11 +1,28 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 67 (August 5, 2017):
+
+**Today's Progress**: Took a break from the bootcamp today. Had to watch a tutorial to finish the slider, but it's done for the most part. I also dabbled with the FB graphy api. I finally figured out how to pull album photos from a FB page to display on a website.
+
+**Thoughts:** Just keep swimming.
+
+**Link to work**: [Testimonial Slider](https://codepen.io/nikkilr88/full/oeYVpK/)
+
+
+### Day 66 (August 4, 2017):
+
+**Today's Progress**: Continued with the bootcamp and added a login page and logic. Also dabbled with jQuery and started making a testimonial slider.
+
+**Thoughts:** Not feeling very motivated but pushing through.
+
+
 ### Day 65 (August 3, 2017):
 
 **Today's Progress**: Added authentication to YelpCamp.
 
 **Thoughts:** Had a crappy past couple of days, but I'm back at it. 
+
 
 ### Day 64 (July 31, 2017):
 

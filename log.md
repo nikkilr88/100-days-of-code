@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 69 (August 7, 2017):
+
+**Today's Progress**: Still taking a break from the bootcamp. I practiced making websites today.
+
+**Thoughts:** I can tell that I'm slowly improving, but I'm still not feeling very motivated. It's also been a few days since I have worked on the bootcamp. My goal for tomorrow is to focus on Express.
+
+### Day 68 (August 6, 2017):
+
+**Today's Progress**: Decided to go back to FCC and work on algos. Finished "Inventory Update". Now I just have to clean it up a bit.
+
+**Thoughts:** It was a nice to get back to working on algos. I never thought they would be useful, but they have actually helped me out a ton.
+
+**Link to work**: [Inventory Update](https://repl.it/JzAY/7)
+
+
 ### Day 67 (August 5, 2017):
 
 **Today's Progress**: Took a break from the bootcamp today. Had to watch a tutorial to finish the slider, but it's done for the most part. I also dabbled with the FB Graph API. I finally figured out how to pull album photos from a FB page to display on a website.

@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 70 (August 8, 2017):
+
+**Today's Progress**: Followed through and worked on the bootcamp today. Finished up with the second auth section.
+
+**Thoughts:** I am going to go back and review both auth sections before moving forward with the course.
+
+
 ### Day 69 (August 7, 2017):
 
 **Today's Progress**: Still taking a break from the bootcamp. I practiced making websites today.

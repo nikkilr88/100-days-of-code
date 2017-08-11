@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log Round 2
 
 
+
+### Day 71 (August 10, 2017):
+
+**Today's Progress**: Started the auth section of the bootcamp again and worked on my React Recipe Box project.
+
+**Thoughts:** Overall, it was a decent day. I'm still not feeling very motivated, but I did get in a few hours of coding.
+
+**Link to work**: [Recipe Box](https://github.com/nikkilr88/fcc-recipe-box/tree/develop)
+
+
 ### Day 70 (August 8, 2017):
 
 **Today's Progress**: Followed through and worked on the bootcamp today. Finished up with the second auth section.

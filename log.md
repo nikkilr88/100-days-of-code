@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 73 (August 12, 2017):
+
+**Today's Progress**: Continued with the API projects and also redid "Inventory Update"
+
+**Thoughts:** It was a pretty good day. I want to get back to my course, though.
+
+
+### Day 72 (August 11, 2017):
+
+**Today's Progress**: Worked with a friend on some API projects.
+
+**Thoughts:** It was pretty good review. I'm glad I was able to remember everything I had learned on FCC.
+
 
 ### Day 71 (August 10, 2017):
 

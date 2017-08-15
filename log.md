@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 75 (August 12, 2017):
+
+**Today's Progress**: Got back to the bootcamp. Continued reviewing auth and started dabbling with Meteor.js.
+
+**Thoughts:** Maybe one day I'll have all of this auth stuff down.
+
+
+### Day 74 (August 14, 2017):
+
+**Today's Progress**: Worked on HTML, CSS and jQuery. Played around with making a tattoo gallery.
+
+**Thoughts:** Slowly getting my motivation back, but I'm still not 100% feeling it yet.
+
+
 ### Day 73 (August 12, 2017):
 
 **Today's Progress**: Continued with the API projects and also redid "Inventory Update"

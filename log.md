@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Days 76 - 78:
+
+**Today's Progress**: Continued with auth review, started dabbling with Meteor.js and completed "Exact Change" on FCC.
+
+**Thoughts:** I'm not sure how I feel about Meteor just yet. I think I am going to finish the project I started and then put it off to the side. I think I am getting better at algos, though.
+
+**Link to work**: [Exact Change](https://repl.it/KM1I/34)
+
+
 ### Day 75 (August 12, 2017):
 
 **Today's Progress**: Got back to the bootcamp. Continued reviewing auth and started dabbling with Meteor.js.

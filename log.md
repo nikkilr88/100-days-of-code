@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 79 (August 18, 2017):
+
+**Today's Progress**: Got back to the bootcamp. Refactored YelpCamp routes and also associated users with comments.
+
+**Thoughts:** I'm still having a hard time finding motivation. I just have to keep at it. I think I am going to be doing a lot of review.
+
+**Link to work**: [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp)
+
+
 ### Days 76 - 78:
 
 **Today's Progress**: Continued with auth review, started dabbling with Meteor.js and completed "Exact Change" on FCC.

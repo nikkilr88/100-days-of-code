@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 81 (August 21, 2017):
+
+**Today's Progress**: More bootcamp today. I completed the user associations section and also refactored my blog project.
+
+**Thoughts:** Still struggling, but today wasn't that bad. I am starting to feel like I am actually learning again. Now I think I will go back and review before moving forward.
+
+**Link to work**: [YelpCamp](https://github.com/nikkilr88/wdb-backend/tree/master/YelpCamp)
+
+
+### Day 80 (August 20, 2017):
+
+**Today's Progress**: Finished the PHP course on SoloLearn.
+
+**Thoughts:** I like that I can study when I'm not by my computer, but I think I learn more by doing. Reading and doing "fill in the blanks" really isn't my thing.
+
+
 ### Day 79 (August 18, 2017):
 
 **Today's Progress**: Got back to the bootcamp. Refactored YelpCamp routes and also associated users with comments.

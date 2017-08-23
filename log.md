@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 82 (August 22, 2017):
+
+**Today's Progress**: ES6 and Flexbox on FreeCodeCamp beta.
+
+**Thoughts:** So far the lessons are okay, but I really couldn't enjoy them because the website is very buggy on my old MacBook.
+
+
 ### Day 81 (August 21, 2017):
 
 **Today's Progress**: More bootcamp today. I completed the user associations section and also refactored my blog project.

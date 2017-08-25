@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 84 (August 24, 2017):
+
+**Today's Progress**: Contined with the catalogue webpage. 
+
+**Thoughts:** This would be a good project to do in Express. I think I might start setting it up tomorrow.
+
+
+### Day 83 (August 23, 2017):
+
+**Today's Progress**: Lots of HTML, CSS and jQuery. Started working on a catalogue webpage for practice.
+
+**Thoughts:** Design seems to be my weak point. I'll need to look around to see if I can find some good tips / lessons.
+
 
 ### Day 82 (August 22, 2017):
 

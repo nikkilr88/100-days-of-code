@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log Round 2
 
+
+### Day 85 (August 25, 2017):
+
+**Today's Progress**: Worked a little with React and started setting up my catalogue project in Express. 
+
+**Thoughts:** React went well, but I was stuck for hours on the catalogue trying to get work as it did before. I couldn't figure out how to create a js variable with the data passed to the template.
+
+I finally did it, though! Tomorrow I will try to connect it to a database. Now to relax the rest of the day. My brain is fried.
+
+**Link to work:** [Catalogue](https://github.com/nikkilr88/express-practice/tree/master/catalogue)
+
+
 ### Day 84 (August 24, 2017):
 
 **Today's Progress**: Contined with the catalogue webpage. 

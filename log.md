@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 87 (August 28, 2017):
+
+**Today's Progress**: Got back to working on my catalogue project in Express. I added in Mongoose and a seeds file to start off with. Did a lot of refactoring and started working on a cart. 
+
+**Thoughts:** I'm still kind of uncomfortable with this, but that's how one improves, right?
+
+**Link to work:** [Catalogue](https://github.com/nikkilr88/express-practice/tree/master/catalogue)
+
+
+### Day 86 (August 26, 2017):
+
+**Today's Progress**: Took it easy and worked on RegEx on freeCodeCamp beta.
+
+**Thoughts:** I forgot most of what I had previously learned. These lessons seem pretty helpful, so we'll see.
+
+
 ### Day 85 (August 25, 2017):
 
 **Today's Progress**: Worked a little with React and started setting up my catalogue project in Express. 

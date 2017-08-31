@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 88 & 89:
+
+**Today's Progress**: Worked on the catalogue, website practice and started making a jQuery slider.
+
+**Thoughts:** It's been a while since I have done the bootcamp, so I think tomorrow that's what I'll foucus on.
+
+**Link to work:** [Content Slider](https://codepen.io/nikkilr88/full/oeJYrK/)
+
+
 ### Day 87 (August 28, 2017):
 
 **Today's Progress**: Got back to working on my catalogue project in Express. I added in Mongoose and a seeds file to start off with. Did a lot of refactoring and started working on a cart. 

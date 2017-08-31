@@ -1,7 +1,14 @@
 # 100 Days Of Code - Log Round 2
 
 
-### Day 88 & 89:
+### Day 90 (August 31, 2017):
+
+**Today's Progress**: Continued working on the slider. I refactored the code and broke everything up into seperate files, so now I can easily add it to other projects.
+
+**Thoughts:** This slider doesn't actually slide. I started working on another one today that does, but I'm still figuring out how to control it using forward and back buttons.
+
+
+### Days 88 & 89:
 
 **Today's Progress**: Worked on the catalogue, website practice and started making a jQuery slider.
 

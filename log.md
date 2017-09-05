@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Days 91 & 92:
+
+**Today's Progress**: Started working on a landing page for FCC Beta and continued with the bootcamp. I added in edit, update and delete routes to YelpCamp.
+
+**Thoughts:** I missed a few days, but I'm back. Feeling pretty good, so we'll see.
+
+
 ### Day 90 (August 31, 2017):
 
 **Today's Progress**: Continued working on the slider. I refactored the code and broke everything up into seperate files, so now I can easily add it to other projects.

@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Days 93 & 94:
+
+**Today's Progress**: Continued working on the bootcamp and learned about authorization. I also did some more work on the landing page and learned about how to set up a full stack app with React and Express from scratch.
+
+**Thoughts:** I'm getting a little sick, so I'm having a hard time concentrating. *Just keep swimming...*
+
+
 ### Days 91 & 92:
 
 **Today's Progress**: Started working on a landing page for FCC Beta and continued with the bootcamp. I added in edit, update and delete routes to YelpCamp.

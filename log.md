@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 95 (September 8, 2017):
+
+**Today's Progress**: Did some work on the landing page.
+
+**Thoughts:** Still feeling kind of sick, so I figured I would take it easy. I guess it's coming along well, but it still needs some work.
+
+**Link to work:** [Landing Page](https://preview.c9users.io/nicolesattler/frontend-projects/twit-landing/index.html?_c9_id=livepreview0&_c9_host=https://ide.c9.io)
+
+
 ### Days 93 & 94:
 
 **Today's Progress**: Continued working on the bootcamp and learned about authorization. I also did some more work on the landing page and learned about how to set up a full stack app with React and Express from scratch.

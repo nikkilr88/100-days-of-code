@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 97 (September 10, 2017):
+
+**Today's Progress**: Played around with Express and Mongoose. I'm trying to figure out how to create a voting system.
+
+**Thoughts:** I have the upvotes working, but I need a way to keep track of which items the user voted on. I don't want to create a whole login system. We'll see how this goes...
+
+
+### Day 96 (September 9, 2017):
+
+**Today's Progress**: Took it easy and did some lessons on my cell today. I leared about some useful CSS selectors.
+
+**Thoughts:** Feeling meh, but keeping at it.
+
+
 ### Day 95 (September 8, 2017):
 
 **Today's Progress**: Did some work on the landing page.

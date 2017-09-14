@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 98 (September 13, 2017):
+
+**Today's Progress**: Continued working on the upvotes project.
+
+**Thoughts:**: I'm slowly figuring things out. Right now I have the buttons disabling after the user clicks using localStorage. I also did some refactoring, so I think I am getting the hang of this.
+
+I swear I coded on Monday (September 11), but for the life of me I cannot remember what I did. To be on the safe side, I'm not going to even bother counting it.
+
+
 ### Day 97 (September 10, 2017):
 
 **Today's Progress**: Played around with Express and Mongoose. I'm trying to figure out how to create a voting system.

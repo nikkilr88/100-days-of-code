@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 99 (September 14, 2017):
+
+**Today's Progress**: Worked on the landing page and the upvotes project.
+
+**Thoughts:**: I had to rewrite the logic for disabling buttons, but it's now working again. 
+
+I think I'm almost done with the lading page. I still need to clean up the code and fix the features list, but it looks okay.
+
+I also want to get back to the Web Dev Bootcamp. I have really been slacking on that.
+
+**Link to work:** [Landing Page](https://preview.c9users.io/nicolesattler/frontend-projects/twit-landing/index.html?_c9_id=livepreview0&_c9_host=https://ide.c9.io)
+
+
 ### Day 98 (September 13, 2017):
 
 **Today's Progress**: Continued working on the upvotes project.

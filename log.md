@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log Round 2
+# 100 Days Of Code - Log Round 2 | Completed
 
 
 ### Day 100 (September 15, 2017):

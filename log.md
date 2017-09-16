@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log Round 2
 
 
+### Day 100 (September 15, 2017):
+
+**Today's Progress**: Continued with the upvotes project.
+
+**Thoughts:**: I think I have most of the logic down. Now I need to figure out how to update the db without reloading the page. I did some research, and it looks like I can use ajax.
+
+
 ### Day 99 (September 14, 2017):
 
 **Today's Progress**: Worked on the landing page and the upvotes project.

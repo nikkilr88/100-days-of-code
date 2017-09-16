@@ -7,6 +7,8 @@
 
 **Thoughts:**: I think I have most of the logic down. Now I need to figure out how to update the db without reloading the page. I did some research, and it looks like I can use ajax.
 
+*Edit: I decided to work on it some more, and I figured it out thanks to Google. Ajax was the answer. I definitely have to learn more about it.*
+
 
 ### Day 99 (September 14, 2017):
 
